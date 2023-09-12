@@ -1,50 +1,50 @@
 [
     {
       "id": "1",
-      "cover": "../images/1.jpg",
+      "cover": "../src/assets/images/1.jpg",
       "title": "The Secret Garden",
       "author": "Jane Smith",
-      "author_img": "../images/boy1.png",
+      "author_img": "../src/assets/images/boy1.png",
       "posted_date": "2023-09-12",
       "reading_time": 45,
       "hashtags": ["fiction", "classics", "gardening"]
     },
     {
       "id": "2",
-      "cover": "../images/2.png",
+      "cover": "../src/assets/images/2.png",
       "title": "A Tale of Two Cities",
       "author": "John Doe",
-      "author_img": "../images/boy2.png",
+      "author_img": "../src/assets/images/boy2.png",
       "posted_date": "2023-09-10",
       "reading_time": 60,
       "hashtags": ["fiction", "classics", "historical"]
     },
     {
       "id": "3",
-      "cover": "../images/3.png",
+      "cover": "../src/assets/images/3.png",
       "title": "The Science of Tomorrow",
       "author": "Alice Johnson",
-      "author_img": "../images/girl2.jpg",
+      "author_img": "../src/assets/images/girl2.jpg",
       "posted_date": "2023-09-08",
       "reading_time": 30,
       "hashtags": ["science", "technology", "future"]
     },
     {
       "id": "4",
-      "cover": "../images/4.jpg",
+      "cover": "../src/assets/images/4.jpg",
       "title": "Cooking Made Easy",
       "author": "Michael Brown",
-      "author_img": "../images/girl1.jpg",
+      "author_img": "../src/assets/images/girl1.jpg",
       "posted_date": "2023-09-06",
       "reading_time": 40,
       "hashtags": ["cooking", "recipes", "food"]
     },
     {
       "id": "5",
-      "cover": "../images/4.jpg",
+      "cover": "../src/assets/images/4.jpg",
       "title": "Travel Adventures",
       "author": "Emily Wilson",
-      "author_img": "../images/girl2.jpg",
+      "author_img": "../src/assets/images/girl2.jpg",
       "posted_date": "2023-09-04",
       "reading_time": 55,
       "hashtags": ["travel", "adventures", "exploration"]
